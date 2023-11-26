@@ -1,0 +1,128 @@
+<!doctype html>
+<!-- Design by Stepan Lyubavtsev. http://mywonderful.website/ -->
+<html lang="ru">
+	<head>
+		<meta charset="utf-8" />
+		<meta content="width=device-width, initial-scale=1" name="viewport" />
+		<title>Что у меня в закладках</title>
+		<meta content="Что у меня в закладках" name="title" />
+		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" name="description" />
+		<meta content="website" property="og:type" />
+		<meta content="https://nameasy.github.io/my-bookmarks/" property="og:url" />
+		<meta content="Что у меня в закладках" property="og:title" />
+		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" property="og:description" />
+		<meta content="" property="og:image" />
+		<meta content="summary_large_image" property="twitter:card" />
+		<meta content="https://nameasy.github.io/my-bookmarks/" property="twitter:url" />
+		<meta content="Что у меня в закладках" property="twitter:title" />
+		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" property="twitter:description" />
+		<meta content="" property="twitter:image" />
+		<link href="/my-bookmarks/index.d67f62f8.css" rel="stylesheet" />
+		<style>
+			.section__empty {
+				font-size: var(--text-md);
+			}
+		</style>
+		<script src="https://cdn.jsdelivr.net/npm/vue@3.3.4/dist/vue.global.prod.js"></script>
+	</head>
+
+	<body>
+		<svg style="display: none">
+			<defs>
+				<symbol fill="none" id="menu-01" viewbox="0 0 24 24">
+					<path d="M3 12H21M3 6H21M3 18H21" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+				</symbol>
+			</defs>
+		</svg>
+		<div class="page">
+			<nav class="menu">
+				<div class="menu__dropdown">
+					<button class="button menu__trigger" type="button">
+						<svg width="24" height="24" class="button__icon menu__trigger-icon">
+							<use href="#menu-01"></use>
+						</svg>
+					</button>
+					<ul class="menu__dropdown-list">
+						<li class="menu__dropdown-item">
+							<a class="menu__dropdown-link" href="https://nameasy.github.io/what-to-watch/">Что посмотреть?</a>
+						</li>
+						<li class="menu__dropdown-item">
+							<a class="menu__dropdown-link" href="https://nameasy.github.io/symbols/">Символы</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+			<main class="main">
+				<section class="section">
+					<header class="section__header">
+						<h1 class="section__title">Что у меня в закладках</h1>
+						<form autocomplete="off" class="section__filter">
+							<fieldset class="section__filter-inner">
+								<legend class="visually-hidden">Фильтрация:</legend>
+								<div class="filter-group">
+									<button @click="resetFilter" :class="{ 'tag': true, 'tag--is-active': isResetActive }" type="button">
+										<span class="tag__text">Все</span>
+										<span class="tag__count">{{ totalBookmarks }}</span>
+									</button>
+									<button
+										v-for="tag in uniqueTags"
+										:key="tag.name"
+										@click="updateFilteredBookmarks(tag.name)"
+										:class="{ 'tag': true, 'tag--is-active': isTagActive(tag.name) }"
+										type="button"
+									>
+										<span class="tag__text">{{ tag.name }}</span>
+										<span class="tag__count">{{ tag.count }}</span>
+									</button>
+								</div>
+							</fieldset>
+						</form>
+					</header>
+					<div class="section__content">
+						<div class="section__toolbar">
+							<form class="search-form">
+								<label class="visually-hidden">Поиск:</label>
+								<input v-model="searchTerm" @input="searchBookmarks" autocomplete="off" class="input search-form__input" placeholder="Поиск" type="text" />
+							</form>
+							<fieldset class="display-mode display-mode--is-fixed">
+								<legend class="visually-hidden">Режим просмотра:</legend>
+								<ul class="display-mode__control switch">
+									<li class="switch__item">
+										<input v-model="displayMode" @change="setGridDisplay" checked class="switch__input" name="display-mode" type="radio" value="grid" />
+										<label class="switch__label">Сетка</label>
+									</li>
+									<li class="switch__item">
+										<input v-model="displayMode" @change="setListDisplay" class="switch__input" name="display-mode" type="radio" value="list" />
+										<label class="switch__label">Список</label>
+										<div class="switch__toggle">
+											<span class="switch__marker"></span>
+										</div>
+									</li>
+								</ul>
+							</fieldset>
+						</div>
+						<ul v-if="filteredBookmarks.length > 0" class="bookmarks-list" :data-display-mode="displayMode">
+							<li v-for="bookmark in filteredBookmarks" :key="bookmark.id" class="bookmarks-list__item">
+								<div class="bookmarks-list__title">
+									<a class="bookmarks-list__link link" :href="bookmark.link" :title="bookmark.title">
+										<template v-if="isGridDisplay">{{ trimText(bookmark.title) }}</template>
+										<template v-else="">{{ bookmark.title }}</template>
+									</a>
+								</div>
+								<div class="bookmarks-list__tags">{{ bookmark.tags.split(',').join(', ') }}</div>
+							</li>
+						</ul>
+						<div v-else="" class="section__empty">Ничего не нашлось</div>
+					</div>
+				</section>
+			</main>
+			<footer class="footer">
+				<div class="footer__text">
+					Проект
+					<a class="link" href="http://mywonderful.website/">Степана Любавцева</a>
+				</div>
+			</footer>
+		</div>
+		<script src="/my-bookmarks/index.cc3bb325.js"></script>
+	</body>
+</html>

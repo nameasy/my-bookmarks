@@ -1,0 +1,1352 @@
+[
+	{
+		"id": 1,
+		"title": "/designer",
+		"link": "https://slashdesigner.ru/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 2,
+		"title": "Введение · Less. Путеводитель для новичков",
+		"link": "https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 3,
+		"title": "Дизайн государственных систем России",
+		"link": "http://gov.design/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 4,
+		"title": "Канон",
+		"link": "https://paper.dropbox.com/doc/NyXXrmMPkt85JLJns0UPy",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 5,
+		"title": "Контур.Гайды",
+		"link": "https://guides.kontur.ru/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 6,
+		"title": "Национальный корпус русского языка",
+		"link": "https://ruscorpora.ru/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 7,
+		"title": "Популярные программные сокращения",
+		"link": "http://youinf.ru/programmnye-sokrashheniya/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 8,
+		"title": "Система Orphus",
+		"link": "http://orphus.ru/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 9,
+		"title": "Стандартизация",
+		"link": "https://dadata.ru/clean/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 10,
+		"title": "Стиль кода HTML Academy",
+		"link": "https://codeguide.academy/html-css.html",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 11,
+		"title": "About components",
+		"link": "https://rstacruz.github.io/rscss/components.html",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 12,
+		"title": "Animate.css | A cross-browser library of CSS animations.",
+		"link": "https://animate.style/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 13,
+		"title": "BrandColors - official brand color hex codes",
+		"link": "https://brandcolors.net/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 14,
+		"title": "CallToInspiration – Small details for very exacting ideas!",
+		"link": "https://calltoinspiration.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 15,
+		"title": "cdnjs",
+		"link": "https://cdnjs.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 16,
+		"title": "Checklist Design - A collection of the best design practices.",
+		"link": "https://www.checklist.design/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 17,
+		"title": "Chrome Experiments - Experiments with Google",
+		"link": "https://experiments.withgoogle.com/collection/chrome",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 18,
+		"title": "Color - Visual Design - iOS - Human Interface Guidelines - Apple Developer",
+		"link": "https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 19,
+		"title": "Community Showcase | Framer",
+		"link": "https://www.framer.com/showcase/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 20,
+		"title": "Components — Tailwind CSS Components",
+		"link": "https://daisyui.com/components/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 21,
+		"title": "Create a 3D CSS Printer that Actually Prints! — SitePoint",
+		"link": "https://www.sitepoint.com/3d-css-printer/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 22,
+		"title": "CSS Reference - A free visual guide to CSS",
+		"link": "https://cssreference.io/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 23,
+		"title": "Curated list of awesome lists | Project-Awesome.org",
+		"link": "https://project-awesome.org/#front-end-development",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 24,
+		"title": "Design Library",
+		"link": "https://design-library.super.site/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 25,
+		"title": "Design Templates & Resources | Nice, Very Nice",
+		"link": "https://www.niceverynice.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 26,
+		"title": "Developer Roadmaps - roadmap.sh",
+		"link": "https://roadmap.sh/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 27,
+		"title": "Editing method/bem-for-css/bem-for-css.ru.md/bem-for-css.ru.md at bem-info-data · Prose",
+		"link": "https://prose.io/#about",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 28,
+		"title": "Experiments | CodyHouse",
+		"link": "https://codyhouse.co/library",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 29,
+		"title": "Flexbox Patterns - Intro",
+		"link": "https://flexboxpatterns.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 30,
+		"title": "Framer: Free Responsive Website Templates",
+		"link": "https://www.framer.com/templates/category/free/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 31,
+		"title": "Free Instagram Post Mockup 2023 (PSD, AI)",
+		"link": "https://unblast.com/free-instagram-post-mockup-2023-psd-ai/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 32,
+		"title": "Free Presets for Adobe Camera Raw",
+		"link": "https://www.on1.com/free/camera-raw-presets/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 33,
+		"title": "FrontCodes",
+		"link": "https://front.codes/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 34,
+		"title": "Futurepedia - The Largest AI Tools Directory | Home",
+		"link": "https://www.futurepedia.io/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 35,
+		"title": "Getting Started | PurgeCSS",
+		"link": "https://purgecss.com/getting-started.html",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 36,
+		"title": "GoodUI ideas and A/B tested patterns for higher conversion rates and growth | GoodUI",
+		"link": "https://goodui.org/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 37,
+		"title": "Google Trends",
+		"link": "https://trends.google.ru/trends/trendingsearches/daily?geo=RU",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 38,
+		"title": "Hashids - generate short unique ids from integers",
+		"link": "https://hashids.org/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 39,
+		"title": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+		"link": "https://haveibeenpwned.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 40,
+		"title": "Headless UI - Unstyled, fully accessible UI components",
+		"link": "https://headlessui.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 41,
+		"title": "Hello world • Svelte Examples",
+		"link": "https://svelte.dev/examples/hello-world",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 42,
+		"title": "HTML Reference - A free guide to all HTML elements and attributes.",
+		"link": "https://htmlreference.io/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 43,
+		"title": "HTML5 UP! Responsive HTML5 and CSS3 Site Templates",
+		"link": "https://html5up.net/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 44,
+		"title": "Iconset - Free Icons Organizer & Manager for Mac and Windows",
+		"link": "https://iconset.io/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 45,
+		"title": "Initializr - Start an HTML5 Boilerplate project in 15 seconds!",
+		"link": "http://www.initializr.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 46,
+		"title": "Javascript - The Algorithms",
+		"link": "https://the-algorithms.com/language/javascript",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 47,
+		"title": "Learn",
+		"link": "https://readymag.com/learn/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 48,
+		"title": "Logotyp",
+		"link": "https://logotyp.us/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 49,
+		"title": "MidJourney Prompt Tool",
+		"link": "https://prompt.noonshot.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 50,
+		"title": "Motion",
+		"link": "https://motion.zajno.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 51,
+		"title": "Namechk | Username, Domain, and Trademark Search | Username Registration",
+		"link": "https://namechk.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 52,
+		"title": "Placehold",
+		"link": "https://placehold.co/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 53,
+		"title": "PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney",
+		"link": "https://prompthero.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 54,
+		"title": "Readymag templates",
+		"link": "https://readymag.com/templates/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 55,
+		"title": "Root Zone Database",
+		"link": "https://www.iana.org/domains/root/db",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 56,
+		"title": "Shapefest™ - A massive library of free 3D shapes",
+		"link": "https://www.shapefest.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 57,
+		"title": "Stack Sorted.",
+		"link": "https://stacksorted.com/buttons",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 58,
+		"title": "SYMBL (◕‿◕)",
+		"link": "https://symbl.cc/ru/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 59,
+		"title": "Telegram stickers for developers by Evrone",
+		"link": "https://stickers.evrone.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 60,
+		"title": "The Cleveland Museum of Art (@clevelandart) | Unsplash Photo Community",
+		"link": "https://unsplash.com/@clevelandart",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 61,
+		"title": "The Web Robots Pages",
+		"link": "https://www.robotstxt.org/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 62,
+		"title": "thePenTool - Craft UI assets for designers",
+		"link": "https://www.thepentool.co/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 63,
+		"title": "Tools for better thinking | Untools",
+		"link": "https://untools.co/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 64,
+		"title": "UI-дизайн",
+		"link": "https://ux-journal.ru/category/ui-design",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 65,
+		"title": "Uisual: Free Landing Page Templates for Startups",
+		"link": "https://uisual.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 66,
+		"title": "Web Interface Handbook",
+		"link": "https://imperavi.com/books/web-interface-handbook/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 67,
+		"title": "WhatRuns — Discover What Runs a Website",
+		"link": "https://www.whatruns.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 68,
+		"title": "winstall - GUI for Windows Package Manager",
+		"link": "https://winstall.app/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 69,
+		"title": "WTF, forms?",
+		"link": "http://wtfforms.com/",
+		"tags": "˗ˏˋПолезностиˎˊ"
+	},
+	{
+		"id": 70,
+		"title": "Basil Icons",
+		"link": "https://craftwork.design/downloads/basil/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 71,
+		"title": "Flagpack",
+		"link": "https://flagpack.xyz/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 72,
+		"title": "Free Edge icons",
+		"link": "https://craftwork.design/downloads/edge/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 73,
+		"title": "Free Icon Packs",
+		"link": "https://bento.me/icons",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 74,
+		"title": "Glaze - Customizabile 3D icons | GRAFIK STASH",
+		"link": "https://grafikstash.com/glaze/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 75,
+		"title": "Glyph Neue by Icons8",
+		"link": "https://icons8.com/l/glyph/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 76,
+		"title": "iconmonstr - Free simple icons for your next project",
+		"link": "https://iconmonstr.com/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 77,
+		"title": "Iconsax",
+		"link": "https://iconsax.io/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 78,
+		"title": "ICONSVG - Quick customizable SVG icons for your project",
+		"link": "https://iconsvg.xyz/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 79,
+		"title": "LineIcons",
+		"link": "https://lineicons.com/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 80,
+		"title": "Majesticons Premium Icons for designers and developers | Homepage",
+		"link": "https://www.majesticons.com/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 81,
+		"title": "Phosphor Icons",
+		"link": "https://phosphoricons.com/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 82,
+		"title": "PIXX",
+		"link": "https://pixelicon.tilda.ws/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 83,
+		"title": "Plumpicons",
+		"link": "https://www.iconfinder.com/p/plumpicons",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 84,
+		"title": "Plumpy icons for your design projects · Icons8",
+		"link": "https://icons8.com/l/plumpy/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 85,
+		"title": "Shapes 30 premium icons (SVG, EPS, PSD, PNG files)",
+		"link": "https://www.flaticon.com/packs/shapes-12",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 86,
+		"title": "Wavy Line Icons",
+		"link": "https://thenounproject.com/term/wavy-line/",
+		"tags": "дизайн, иконки"
+	},
+	{
+		"id": 87,
+		"title": "500+ Free Vector Illustrations & Animations",
+		"link": "https://www.pixeltrue.com/free-illustrations",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 88,
+		"title": "Animations",
+		"link": "https://app.itg.digital/animations",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 89,
+		"title": "Curated Illustrations Sets, PNG and SVG",
+		"link": "https://icons8.com/illustrations/curated-sets",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 90,
+		"title": "Download Illustrations - Absurd Design",
+		"link": "https://absurd.design/chapter/intro",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 91,
+		"title": "Open Doodles Generator",
+		"link": "https://generator.opendoodles.com/",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 92,
+		"title": "Open Peeps, Hand-Drawn Illustration Library",
+		"link": "https://www.openpeeps.com/",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 93,
+		"title": "Porto Illustrations",
+		"link": "https://www.kapustin.co/product/porto",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 94,
+		"title": "scribbbles",
+		"link": "https://www.scribbbles.design/",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 95,
+		"title": "Storytale — High-class web illustrations under simple subscription",
+		"link": "https://storytale.io/",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 96,
+		"title": "Uncommon Illustrations",
+		"link": "https://www.artify.co/uncommon-illustrations",
+		"tags": "дизайн, иллюстрации"
+	},
+	{
+		"id": 97,
+		"title": "Adalo - Build Your Own No Code App",
+		"link": "https://www.adalo.com/",
+		"tags": "дизайн, конструкторы сайтов (no-code)"
+	},
+	{
+		"id": 98,
+		"title": "Dora - NoCode Design Platform",
+		"link": "https://www.dora.run/?utm_source=figma&utm_medium=community&utm_campaign=figmatodora-plugin-doc",
+		"tags": "дизайн, конструкторы сайтов (no-code)"
+	},
+	{
+		"id": 99,
+		"title": "mmm.page",
+		"link": "https://build.mmm.page/",
+		"tags": "дизайн, конструкторы сайтов (no-code)"
+	},
+	{
+		"id": 100,
+		"title": "No Code Website Builder, Web Design Tool for Designers - Siter.io",
+		"link": "https://siter.io/",
+		"tags": "дизайн, конструкторы сайтов (no-code)"
+	},
+	{
+		"id": 101,
+		"title": "Professional website builder for developers | teleporthq.io",
+		"link": "https://teleporthq.io/",
+		"tags": "дизайн, конструкторы сайтов (no-code)"
+	},
+	{
+		"id": 102,
+		"title": "Put your projects on the Web.",
+		"link": "https://cargo.site/",
+		"tags": "дизайн, конструкторы сайтов (no-code)"
+	},
+	{
+		"id": 103,
+		"title": "Бесплатный фотосток без регистрации на русском, фото без авторских прав",
+		"link": "https://loon.site/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 104,
+		"title": "App Mockup Templates | Mockup Generator | Perfect for your app",
+		"link": "https://previewed.app/mockups",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 105,
+		"title": "EyeEm | Authentic Stock Photography and Royalty-Free Images",
+		"link": "https://www.eyeem.com/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 106,
+		"title": "Free Images and Free Photos - Search Across 40 Best Sources",
+		"link": "https://www.everypixel.com/free",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 107,
+		"title": "FREEJECT",
+		"link": "https://www.freeject.net/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 108,
+		"title": "https://www.pexels.com",
+		"link": "https://www.pexels.com/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 109,
+		"title": "Imgur: The magic of the Internet",
+		"link": "https://imgur.com/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 110,
+		"title": "Johannes Hofmann (@quicksand) | Unsplash Photo Community",
+		"link": "https://unsplash.com/@quicksand",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 111,
+		"title": "KK UI Store",
+		"link": "https://kkuistore.com/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 112,
+		"title": "Pixel Surplus",
+		"link": "https://www.pixelsurplus.com/free-goods",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 113,
+		"title": "Pixelbuddha",
+		"link": "https://pixelbuddha.net/freebies",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 114,
+		"title": "UI Kits, Icons, Templates, Themes and More",
+		"link": "https://www.uplabs.com/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 115,
+		"title": "ZippyPixels",
+		"link": "https://zippypixels.com/",
+		"tags": "дизайн, мокапы, ресурсы, стоки"
+	},
+	{
+		"id": 116,
+		"title": "Actionable Color Palettes",
+		"link": "https://colorpalettes.colorion.co/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 117,
+		"title": "Color Selector",
+		"link": "http://color-selector.com/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 118,
+		"title": "Colormind – Bootstrap UI colors",
+		"link": "http://colormind.io/bootstrap/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 119,
+		"title": "Coolors",
+		"link": "https://coolors.co/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 120,
+		"title": "couleur.io → Harmonizing Color Palettes for Your Web Projects",
+		"link": "https://couleur.io/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 121,
+		"title": "Eva Design System: Deep learning color generator",
+		"link": "https://colors.eva.design/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 122,
+		"title": "Flaming Hot Flamingoes: #ff005d — Color Information",
+		"link": "https://parrot.color.pizza/color/ff005d/%E2%9D%A4",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 123,
+		"title": "Happy Hues - Curated colors in context.",
+		"link": "https://www.happyhues.co/palettes/1",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 124,
+		"title": "Khroma - The AI color tool for designers",
+		"link": "https://www.khroma.co/train",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 125,
+		"title": "Mobile Palette Generator",
+		"link": "https://mobilepalette.colorion.co/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 126,
+		"title": "mymind",
+		"link": "https://access.mymind.com/colors",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 127,
+		"title": "Nævner",
+		"link": "https://naevner.com/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 128,
+		"title": "Night Palette",
+		"link": "https://nightpalette.com/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 129,
+		"title": "Poline — Esoteric Color Palette Generation Library",
+		"link": "https://meodai.github.io/poline/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 130,
+		"title": "Shade Generator | A graphic designer's best friend",
+		"link": "https://www.shadegenerator.com/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 131,
+		"title": "UI Colors - Get Awesome UI Colors for Your Website",
+		"link": "http://getuicolors.com/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 132,
+		"title": "WhatTheHex?! — Let's give your color a name?!",
+		"link": "https://whatthehex.app/",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 133,
+		"title": "Color Codes Converter Tool | Dopely Colors",
+		"link": "https://colors.dopely.top/color-converter/hex/78a313",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 134,
+		"title": "Leonardo",
+		"link": "https://leonardocolor.io/#",
+		"tags": "дизайн, цвета"
+	},
+	{
+		"id": 135,
+		"title": "60+ лучших кириллических шрифтов в 2020",
+		"link": "https://videoinfographica.com/free-cyrillic-fonts-vol1/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 136,
+		"title": "Журнал «Шрифт» • Стиль сан Су: о новой книге Владимире Кричевского",
+		"link": "https://typejournal.ru/articles/Alexander-Surikov",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 137,
+		"title": "Справочник: •.,:;…!?·",
+		"link": "https://type.today/ru/journal/dots",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 138,
+		"title": "Fictional – A friendly & quirky typeface with a cartoonesque character",
+		"link": "https://fictional-typeface.com/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 139,
+		"title": "Fontjoy - Generate font pairings in one click",
+		"link": "https://fontjoy.com/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 140,
+		"title": "FontPair – Helps you pair Google Fonts together",
+		"link": "https://fontpair.co/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 141,
+		"title": "Fontshare: Quality fonts. Free.",
+		"link": "https://www.fontshare.com/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 142,
+		"title": "format.otf Type Foundry",
+		"link": "https://www.formatpunktotf.de/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 143,
+		"title": "Futura Font Combinations & Free Alternatives · Typewolf",
+		"link": "https://www.typewolf.com/futura",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 144,
+		"title": "Futura in action plus good fonts pairings for it | Typ.io",
+		"link": "https://typ.io/fonts/futura",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 145,
+		"title": "Google Fonts",
+		"link": "https://fonts.google.com/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 146,
+		"title": "Home",
+		"link": "https://ivantsanko.com/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 147,
+		"title": "Home - VTF",
+		"link": "http://velvetyne.fr/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 148,
+		"title": "Just My Type",
+		"link": "https://justmytype.co/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 149,
+		"title": "Paratype.ru — шрифты, которые работают",
+		"link": "https://www.paratype.ru/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 150,
+		"title": "The Ultimate Guide to Kerning: How to Kern Font in Your Projects",
+		"link": "https://blog.icons8.com/articles/ultimate-guide-to-kerning-how-to-kern-font/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 151,
+		"title": "Type Terms",
+		"link": "https://www.supremo.co.uk/typeterms/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 152,
+		"title": "type.today",
+		"link": "https://type.today/ru",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 153,
+		"title": "Welcome to UNCUT",
+		"link": "https://uncut.wtf/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 154,
+		"title": "Whirly Birdie - Variable Font",
+		"link": "https://whirlybirdie.com/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 155,
+		"title": "Wordmark - Helps you choose fonts!",
+		"link": "https://wordmark.it/",
+		"tags": "дизайн, шрифты"
+	},
+	{
+		"id": 156,
+		"title": ".htaccess Generator - Help creating your htaccess file",
+		"link": "https://www.htaccessredirect.net/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 157,
+		"title": "Avatar generator playground - Boring Avatars",
+		"link": "https://boringavatars.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 158,
+		"title": "chaosMachine - unique generative graphics",
+		"link": "https://chaosmach.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 159,
+		"title": "Create your Google Sitemap Online - XML Sitemaps Generator",
+		"link": "https://www.xml-sitemaps.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 160,
+		"title": "Create Your Own @font-face Kits » Font Squirrel",
+		"link": "https://www.fontsquirrel.com/tools/webfont-generator",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 161,
+		"title": "CSS Shadow Palette Generator",
+		"link": "https://www.joshwcomeau.com/shadow-palette/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 162,
+		"title": "DreamStudio",
+		"link": "https://dreamstudio.ai/generate",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 163,
+		"title": "Easings - Generate Cubic Bezier Easing Curves",
+		"link": "https://easings.co/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 164,
+		"title": "Everypixel Pattern Generator",
+		"link": "https://www.everypixel.com/patterns/generate",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 165,
+		"title": "Flexy Boxes — CSS flexbox playground and code generation tool",
+		"link": "https://the-echoplex.net/flexyboxes/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 166,
+		"title": "frameshift — free browser mockup generator",
+		"link": "https://frameshift.cc/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 167,
+		"title": "Generators",
+		"link": "https://haikei.app/generators/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 168,
+		"title": "Home | LOTRem Ipsum",
+		"link": "https://lotremipsum.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 169,
+		"title": "HTML Table Generator",
+		"link": "http://www.code-generator.net/html/html-table-generator.cfm",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 170,
+		"title": "Minimal Avatars",
+		"link": "https://minimalavatars.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 171,
+		"title": "Mockup Generator",
+		"link": "https://placeit.net/c/mockups",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 172,
+		"title": "Noise & Gradient",
+		"link": "https://www.noiseandgradient.com/?chaos=0.1&colors=%23ed625d-%2342b6c6-%23f79f88-%23b2dfe6-%2303232d&grain=0.1",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 173,
+		"title": "Pattern Generator | Create Seamless, Royalty-Free Patterns",
+		"link": "https://doodad.dev/pattern-generator/#beautiful-dingbats",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 174,
+		"title": "Patternify | CSS Pattern Generator",
+		"link": "http://www.patternify.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 175,
+		"title": "Raaatio - A Generative noise pattern generator",
+		"link": "https://raaatio.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 176,
+		"title": "Tabbied",
+		"link": "https://tabbied.com/",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 177,
+		"title": "Text to ASCII Art Generator (TAAG)",
+		"link": "https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 178,
+		"title": "The Ultimate HTML Generators | Web Code Tools",
+		"link": "https://webcode.tools/generators/html",
+		"tags": "генераторы, инструменты"
+	},
+	{
+		"id": 179,
+		"title": "Автопрефиксер CSS онлайн",
+		"link": "https://autoprefixer.github.io/ru/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 180,
+		"title": "C# Online Compiler",
+		"link": "https://dotnetfiddle.net/#",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 181,
+		"title": "CSS Obfuscator - Protect Your Stylesheets",
+		"link": "http://cssobfuscator.com/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 182,
+		"title": "CSS Optimizer",
+		"link": "https://www.cssportal.com/css-optimize/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 183,
+		"title": "Dirty Markup",
+		"link": "http://www.dirtymarkup.com/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 184,
+		"title": "HTMLBeautify: Online HTML beutifier",
+		"link": "https://beautify.dotmaui.com/htmlbeautify/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 185,
+		"title": "JSCompress – The JavaScript Compression Tool",
+		"link": "https://jscompress.com/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 186,
+		"title": "Prettier v2.8.7",
+		"link": "https://prettier.io/playground/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 187,
+		"title": "Ready to check - Nu Html Checker",
+		"link": "https://validator.w3.org/nu/#textarea",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 188,
+		"title": "Remove Comments Online - Almost Any Language!",
+		"link": "https://removecomments.com/",
+		"tags": "инструменты, код"
+	},
+	{
+		"id": 189,
+		"title": "Главред β",
+		"link": "https://glvrd.ru/",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 190,
+		"title": "Конвертер регистров",
+		"link": "https://www.artlebedev.ru/case/",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 191,
+		"title": "Орфограммка",
+		"link": "https://orfogrammka.ru/cabinet/#login",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 192,
+		"title": "Парафраз - лучший инструмент перефразирования",
+		"link": "https://www.paraphraser.io/ru/perefraziruyesh-instrument",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 193,
+		"title": "Повторить текст",
+		"link": "https://texter.ru/repeat-text",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 194,
+		"title": "Склонение словосочетаний онлайн",
+		"link": "https://morpher.ru/Demo.aspx",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 195,
+		"title": "Сортировка списка по алфавиту",
+		"link": "https://spiskin.ru/scripts/sort_alphabet/",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 196,
+		"title": "Транслитерация",
+		"link": "https://www.calc.ru/transliteratsyya.html",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 197,
+		"title": "Транслитерация по стандарту ИКАО (ICAO Doc 9303).",
+		"link": "https://www.translit.site/ru/type/icao",
+		"tags": "инструменты, текст"
+	},
+	{
+		"id": 198,
+		"title": "Распознать текст онлайн с картинки, pdf или фото",
+		"link": "https://img2txt.com/ru",
+		"tags": "инструменты"
+	},
+	{
+		"id": 199,
+		"title": "AutoRegex: Convert from English to RegEx with Natural Language Processing",
+		"link": "https://www.autoregex.xyz/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 200,
+		"title": "cccreate → carefully curated collection of tools for web creators",
+		"link": "https://cccreate.co/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 201,
+		"title": "Clip-path converter",
+		"link": "https://yoksel.github.io/relative-clip-path/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 202,
+		"title": "Create beautiful images of your code",
+		"link": "https://ray.so/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 203,
+		"title": "Diffchecker - Compare text online to find the difference between two text files",
+		"link": "https://www.diffchecker.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 204,
+		"title": "everysize - Check your responsive webpage looks great in every size 🖥 💻 📱 👀",
+		"link": "https://everysize.kibalabs.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 205,
+		"title": "Excel to JSON - Convert Excel and CSV to JSON",
+		"link": "https://excel2json.io/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 206,
+		"title": "Fluid type scale calculator | Utopia",
+		"link": "https://utopia.fyi/type/calculator/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 207,
+		"title": "Free Background Image Remover by PhotoRoom",
+		"link": "https://www.photoroom.com/background-remover/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 208,
+		"title": "Free Image Resizer | Resize Your Images for Social Media | Promo.com",
+		"link": "https://promo.com/tools/image-resizer/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 209,
+		"title": "Golden Ratio Calculator by @alex_deplov",
+		"link": "https://golden-ratio-svg.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 210,
+		"title": "Gridzzly.com - Make your own grid paper",
+		"link": "http://gridzzly.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 211,
+		"title": "Image Extractor",
+		"link": "https://extract.pics/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 212,
+		"title": "Kenney Shape",
+		"link": "https://tools.kenney.nl/kenney-shape/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 213,
+		"title": "keycode.space - the keyboard event inspector",
+		"link": "https://keycode.space/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 214,
+		"title": "Kody Tools",
+		"link": "https://www.kodytools.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 215,
+		"title": "Let's Enhance",
+		"link": "https://letsenhance.io/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 216,
+		"title": "Pixelicious",
+		"link": "https://www.pixelicious.xyz/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 217,
+		"title": "RatioBuddy - Aspect ratio calculator",
+		"link": "https://ratiobuddy.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 218,
+		"title": "Remove any background from your photos automatically",
+		"link": "https://purephotos.app/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 219,
+		"title": "Remove Background from Image",
+		"link": "https://www.remove.bg/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 220,
+		"title": "Responsinator",
+		"link": "http://www.responsinator.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 221,
+		"title": "Screen — Screenshot Creator for Product Pages",
+		"link": "https://screen.traction.one/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 222,
+		"title": "Screenstab",
+		"link": "https://www.screenstab.com/editor/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 223,
+		"title": "Squircley | SVG Squircle Maker",
+		"link": "https://squircley.app/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 224,
+		"title": "TinyPNG",
+		"link": "https://tinypng.com/",
+		"tags": "инструменты"
+	},
+	{
+		"id": 225,
+		"title": "Xona.com - Domain Hacks",
+		"link": "http://xona.com/domainhacks/",
+		"tags": "инструменты"
+	}
+]
