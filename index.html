@@ -1,22 +1,20 @@
 <!doctype html>
-<!-- Design by Stepan Lyubavtsev. http://mywonderful.website/ -->
+<!-- Design by Stepan Lyubavtsev (https://lyubavtsev.ru/) -->
 <html lang="ru">
 	<head>
 		<meta charset="utf-8" />
 		<meta content="width=device-width, initial-scale=1" name="viewport" />
 		<title>Что у меня в закладках</title>
-		<meta content="Что у меня в закладках" name="title" />
-		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" name="description" />
+		<meta content="Что у меня в закладках" name="title" />
+		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" name="description" />
 		<meta content="website" property="og:type" />
 		<meta content="https://nameasy.github.io/my-bookmarks/" property="og:url" />
 		<meta content="Что у меня в закладках" property="og:title" />
-		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" property="og:description" />
-		<meta content="" property="og:image" />
+		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" property="og:description" />
 		<meta content="summary_large_image" property="twitter:card" />
 		<meta content="https://nameasy.github.io/my-bookmarks/" property="twitter:url" />
 		<meta content="Что у меня в закладках" property="twitter:title" />
-		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" property="twitter:description" />
-		<meta content="" property="twitter:image" />
+		<meta content="Подборка полезных сервисов, облегчающих жизнь дизайнерам и программистам" property="twitter:description" />
 		<link href="/my-bookmarks/index.d67f62f8.css" rel="stylesheet" />
 		<style>
 			.section__empty {
@@ -29,7 +27,7 @@
 	<body>
 		<svg style="display: none">
 			<defs>
-				<symbol fill="none" id="menu-01" viewbox="0 0 24 24">
+				<symbol fill="none" id="menu-01" viewBox="0 0 24 24">
 					<path d="M3 12H21M3 6H21M3 18H21" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
 				</symbol>
 			</defs>
@@ -64,13 +62,7 @@
 										<span class="tag__text">Все</span>
 										<span class="tag__count">{{ totalBookmarks }}</span>
 									</button>
-									<button
-										v-for="tag in uniqueTags"
-										:key="tag.name"
-										@click="updateFilteredBookmarks(tag.name)"
-										:class="{ 'tag': true, 'tag--is-active': isTagActive(tag.name) }"
-										type="button"
-									>
+									<button v-for="tag in uniqueTags" :key="tag.name" @click="updateFilteredBookmarks(tag.name)" :class="{ 'tag': true, 'tag--is-active': isTagActive(tag.name) }" type="button">
 										<span class="tag__text">{{ tag.name }}</span>
 										<span class="tag__count">{{ tag.count }}</span>
 									</button>
